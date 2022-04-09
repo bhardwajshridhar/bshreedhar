@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Shridhar Bhardwaj
-- 🌱 I’m currently learning Alogorithm Engineering
-- 💞️ I’m looking to collaborate on Project 1.
 - 📫 How to reach me : shree@csu.fullerton.edu
 
 <!---
